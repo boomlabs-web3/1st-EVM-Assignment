@@ -1,4 +1,4 @@
-# 1st-EVM-1st-Assignment
+# 1st-EVM-Assignment
 
 # Todo Guide
 
